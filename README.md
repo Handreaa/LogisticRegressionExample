@@ -1,5 +1,4 @@
 # LogisticRegressionExample
-Bisiklet satın alma tahminlemesi için Lojistik Regresyon modeli oluşturma
 Herkese selamlar bu veri çalışmasında amacımız bir bisiklet firmasına ait bisiklet alıp almayan insanların bilgilerini 
 değerlendirip bu verileri kullanarak yeni insanların bisiklet alıp almayacağı tahminleme modeli oluşturmaktır.
 Tahminleme modelini oluştururken tahminleme başarısını arttırmak için bir çok yöntem denedim.
